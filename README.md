@@ -80,3 +80,8 @@ A local sentiment-analysis project built around VADER with:
 
 ## License
 - Add a LICENSE file (e.g., MIT) if you want to publish under an open-
+
+## Preview Image of the Web Client
+
+![Vader Client Image](relative/path/to/image.png)
+
