@@ -83,5 +83,5 @@ A local sentiment-analysis project built around VADER with:
 
 ## Preview Image of the Web Client
 
-![Vader Client Image](/blob/main/preview.png)
+![Vader Client Image](https://github.com/JCarlo04/Vader-Sentiment-App-Web/blob/main/preview.png)
 
