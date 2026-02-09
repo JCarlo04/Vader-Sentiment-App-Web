@@ -83,5 +83,5 @@ A local sentiment-analysis project built around VADER with:
 
 ## Preview Image of the Web Client
 
-![Vader Client Image](relative/path/to/image.png)
+![Vader Client Image](/blob/main/preview.png)
 
