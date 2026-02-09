@@ -1,7 +1,0 @@
-/* modern, minimal overrides */
-
-body { font-family: "Segoe UI", Roboto, system-ui, -apple-system, "Helvetica Neue", Arial; }
-.card { border-radius: 12px; }
-textarea.form-control { resize: vertical; min-height: 120px; }
-.list-unstyled li { word-break: break-word; }
-.navbar-brand { font-weight: 600; letter-spacing: 0.2px; }
